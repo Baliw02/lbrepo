@@ -4,5 +4,6 @@
         Console.WriteLine("asdsad")
         Console.WriteLine("asdsad")
         Console.WriteLine("asdsad")
+        MessageBox.Show("asdaasd", "asdasda", MessageBoxButtons.AbortRetryIgnore)
     End Sub
 End Class
